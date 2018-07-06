@@ -1,0 +1,524 @@
+[Mon Jul 02 09:59:29.768496 2018] [ssl:warn] [pid 7468:tid 300] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 09:59:29.849504 2018] [ssl:warn] [pid 7468:tid 300] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 09:59:29.850504 2018] [mpm_winnt:notice] [pid 7468:tid 300] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h configured -- resuming normal operations
+[Mon Jul 02 09:59:29.850504 2018] [mpm_winnt:notice] [pid 7468:tid 300] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 09:59:29.850504 2018] [core:notice] [pid 7468:tid 300] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 09:59:29.853505 2018] [mpm_winnt:notice] [pid 7468:tid 300] AH00418: Parent: Created child process 400
+[Mon Jul 02 09:59:30.100529 2018] [ssl:warn] [pid 400:tid 196] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 09:59:30.168536 2018] [ssl:warn] [pid 400:tid 196] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 09:59:30.171536 2018] [mpm_winnt:notice] [pid 400:tid 196] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 10:29:47.325273 2018] [mpm_winnt:notice] [pid 7468:tid 300] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 10:30:00.020193 2018] [mpm_winnt:notice] [pid 400:tid 196] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 10:30:00.040185 2018] [mpm_winnt:notice] [pid 7468:tid 300] AH00430: Parent: Child process 400 exited successfully.
+[Mon Jul 02 10:30:08.161935 2018] [ssl:warn] [pid 3240:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:30:08.200919 2018] [ssl:warn] [pid 3240:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:30:08.238904 2018] [mpm_winnt:notice] [pid 3240:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 10:30:08.238904 2018] [mpm_winnt:notice] [pid 3240:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 10:30:08.238904 2018] [core:notice] [pid 3240:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 10:30:08.240903 2018] [mpm_winnt:notice] [pid 3240:tid 356] AH00418: Parent: Created child process 5312
+[Mon Jul 02 10:30:08.429828 2018] [ssl:warn] [pid 5312:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:30:08.461815 2018] [ssl:warn] [pid 5312:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:30:08.467812 2018] [mpm_winnt:notice] [pid 5312:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 10:52:40.501301 2018] [mpm_winnt:notice] [pid 3240:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 10:52:42.502301 2018] [mpm_winnt:notice] [pid 5312:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 10:52:42.576301 2018] [mpm_winnt:notice] [pid 3240:tid 356] AH00430: Parent: Child process 5312 exited successfully.
+[Mon Jul 02 10:52:46.561301 2018] [ssl:warn] [pid 7792:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:52:46.609301 2018] [ssl:warn] [pid 7792:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:52:46.617301 2018] [mpm_winnt:notice] [pid 7792:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 10:52:46.617301 2018] [mpm_winnt:notice] [pid 7792:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 10:52:46.617301 2018] [core:notice] [pid 7792:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 10:52:46.618301 2018] [mpm_winnt:notice] [pid 7792:tid 356] AH00418: Parent: Created child process 3572
+[Mon Jul 02 10:52:46.811301 2018] [ssl:warn] [pid 3572:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:52:46.885301 2018] [ssl:warn] [pid 3572:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 10:52:46.904301 2018] [mpm_winnt:notice] [pid 3572:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 11:25:46.562802 2018] [mpm_winnt:notice] [pid 7792:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 11:25:48.563448 2018] [mpm_winnt:notice] [pid 3572:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 11:25:48.590453 2018] [mpm_winnt:notice] [pid 7792:tid 356] AH00430: Parent: Child process 3572 exited successfully.
+[Mon Jul 02 11:25:51.021940 2018] [ssl:warn] [pid 3656:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 11:25:51.056947 2018] [ssl:warn] [pid 3656:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 11:25:51.061948 2018] [mpm_winnt:notice] [pid 3656:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 11:25:51.061948 2018] [mpm_winnt:notice] [pid 3656:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 11:25:51.061948 2018] [core:notice] [pid 3656:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 11:25:51.062948 2018] [mpm_winnt:notice] [pid 3656:tid 356] AH00418: Parent: Created child process 1648
+[Mon Jul 02 11:25:51.242984 2018] [ssl:warn] [pid 1648:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 11:25:51.272990 2018] [ssl:warn] [pid 1648:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 11:25:51.278991 2018] [mpm_winnt:notice] [pid 1648:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 11:27:17.383000 2018] [mpm_winnt:notice] [pid 3656:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 11:27:19.411003 2018] [mpm_winnt:notice] [pid 1648:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 11:27:19.426603 2018] [mpm_winnt:notice] [pid 3656:tid 356] AH00430: Parent: Child process 1648 exited successfully.
+[Mon Jul 02 11:28:13.945246 2018] [ssl:warn] [pid 1604:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 11:28:14.105246 2018] [ssl:warn] [pid 1604:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 11:28:15.365248 2018] [mpm_winnt:notice] [pid 1604:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 11:28:15.365248 2018] [mpm_winnt:notice] [pid 1604:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 11:28:15.365248 2018] [core:notice] [pid 1604:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 11:28:15.365248 2018] [mpm_winnt:notice] [pid 1604:tid 356] AH00418: Parent: Created child process 1596
+[Mon Jul 02 11:28:15.575248 2018] [ssl:warn] [pid 1596:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 11:28:15.615248 2018] [ssl:warn] [pid 1596:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 11:28:15.625248 2018] [mpm_winnt:notice] [pid 1596:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 13:08:15.277958 2018] [mpm_winnt:notice] [pid 1604:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 13:08:17.305402 2018] [mpm_winnt:notice] [pid 1596:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 13:08:17.321002 2018] [mpm_winnt:notice] [pid 1604:tid 356] AH00430: Parent: Child process 1596 exited successfully.
+[Mon Jul 02 13:08:46.831624 2018] [ssl:warn] [pid 1580:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:08:46.921625 2018] [ssl:warn] [pid 1580:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:08:47.311625 2018] [mpm_winnt:notice] [pid 1580:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 13:08:47.321625 2018] [mpm_winnt:notice] [pid 1580:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 13:08:47.321625 2018] [core:notice] [pid 1580:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 13:08:47.321625 2018] [mpm_winnt:notice] [pid 1580:tid 356] AH00418: Parent: Created child process 1684
+[Mon Jul 02 13:08:47.511625 2018] [ssl:warn] [pid 1684:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:08:47.531625 2018] [ssl:warn] [pid 1684:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:08:47.531625 2018] [mpm_winnt:notice] [pid 1684:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 13:17:02.896069 2018] [mpm_winnt:notice] [pid 1580:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 13:17:04.903274 2018] [mpm_winnt:notice] [pid 1684:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 13:17:04.918874 2018] [mpm_winnt:notice] [pid 1580:tid 356] AH00430: Parent: Child process 1684 exited successfully.
+[Mon Jul 02 13:17:12.605295 2018] [ssl:warn] [pid 3316:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:17:12.730096 2018] [ssl:warn] [pid 3316:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:17:12.745696 2018] [mpm_winnt:notice] [pid 3316:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 13:17:12.745696 2018] [mpm_winnt:notice] [pid 3316:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 13:17:12.745696 2018] [core:notice] [pid 3316:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 13:17:12.745696 2018] [mpm_winnt:notice] [pid 3316:tid 356] AH00418: Parent: Created child process 4268
+[Mon Jul 02 13:17:12.964096 2018] [ssl:warn] [pid 4268:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:17:12.995296 2018] [ssl:warn] [pid 4268:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:17:12.995296 2018] [mpm_winnt:notice] [pid 4268:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 13:19:33.026406 2018] [mpm_winnt:notice] [pid 3316:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 13:19:35.033210 2018] [mpm_winnt:notice] [pid 4268:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 13:19:35.048810 2018] [mpm_winnt:notice] [pid 3316:tid 356] AH00430: Parent: Child process 4268 exited successfully.
+[Mon Jul 02 13:19:46.352644 2018] [ssl:warn] [pid 5976:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:19:46.383844 2018] [ssl:warn] [pid 5976:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'open_openssl.dll' (tried: C:\\php\\ext\\open_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_open_openssl.dll.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:19:46.383844 2018] [mpm_winnt:notice] [pid 5976:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 13:19:46.383844 2018] [mpm_winnt:notice] [pid 5976:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 13:19:46.383844 2018] [core:notice] [pid 5976:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 13:19:46.383844 2018] [mpm_winnt:notice] [pid 5976:tid 356] AH00418: Parent: Created child process 3240
+[Mon Jul 02 13:19:46.573045 2018] [ssl:warn] [pid 3240:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:19:46.588645 2018] [ssl:warn] [pid 3240:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'open_openssl.dll' (tried: C:\\php\\ext\\open_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_open_openssl.dll.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:19:46.588645 2018] [mpm_winnt:notice] [pid 3240:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 13:21:40.505112 2018] [mpm_winnt:notice] [pid 5976:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 13:21:42.533116 2018] [mpm_winnt:notice] [pid 3240:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 13:21:42.548716 2018] [mpm_winnt:notice] [pid 5976:tid 356] AH00430: Parent: Child process 3240 exited successfully.
+[Mon Jul 02 13:22:13.186025 2018] [ssl:warn] [pid 1600:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:22:13.346025 2018] [ssl:warn] [pid 1600:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:22:13.746026 2018] [mpm_winnt:notice] [pid 1600:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 13:22:13.756026 2018] [mpm_winnt:notice] [pid 1600:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 13:22:13.756026 2018] [core:notice] [pid 1600:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 13:22:13.756026 2018] [mpm_winnt:notice] [pid 1600:tid 356] AH00418: Parent: Created child process 1708
+[Mon Jul 02 13:22:13.936026 2018] [ssl:warn] [pid 1708:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:22:13.966026 2018] [ssl:warn] [pid 1708:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:22:13.966026 2018] [mpm_winnt:notice] [pid 1708:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 13:36:52.777883 2018] [mpm_winnt:notice] [pid 1600:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 13:36:54.782344 2018] [mpm_winnt:notice] [pid 1708:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 13:36:54.801350 2018] [mpm_winnt:notice] [pid 1600:tid 356] AH00430: Parent: Child process 1708 exited successfully.
+[Mon Jul 02 13:37:01.747781 2018] [ssl:warn] [pid 3628:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:37:01.848805 2018] [ssl:warn] [pid 3628:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:37:01.852806 2018] [mpm_winnt:notice] [pid 3628:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 13:37:01.852806 2018] [mpm_winnt:notice] [pid 3628:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 13:37:01.852806 2018] [core:notice] [pid 3628:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 13:37:01.853807 2018] [mpm_winnt:notice] [pid 3628:tid 356] AH00418: Parent: Created child process 752
+[Mon Jul 02 13:37:02.066654 2018] [ssl:warn] [pid 752:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:37:02.082257 2018] [ssl:warn] [pid 752:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\\php\\ext\\openssl (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3), C:\\php\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+[Mon Jul 02 13:37:02.082257 2018] [mpm_winnt:notice] [pid 752:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 13:56:48.686503 2018] [mpm_winnt:notice] [pid 3628:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 13:57:18.656503 2018] [mpm_winnt:notice] [pid 3628:tid 356] AH00431: Parent: Forcing termination of child process 752
+[Mon Jul 02 13:58:41.091503 2018] [ssl:warn] [pid 3160:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:58:41.126503 2018] [ssl:warn] [pid 3160:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:58:41.154503 2018] [mpm_winnt:notice] [pid 3160:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 13:58:41.154503 2018] [mpm_winnt:notice] [pid 3160:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 13:58:41.154503 2018] [core:notice] [pid 3160:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 13:58:41.155503 2018] [mpm_winnt:notice] [pid 3160:tid 356] AH00418: Parent: Created child process 2524
+[Mon Jul 02 13:58:41.352503 2018] [ssl:warn] [pid 2524:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:58:41.385503 2018] [ssl:warn] [pid 2524:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 13:58:41.391503 2018] [mpm_winnt:notice] [pid 2524:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:09:58.298303 2018] [mpm_winnt:notice] [pid 3160:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:10:00.305903 2018] [mpm_winnt:notice] [pid 2524:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:10:00.321503 2018] [mpm_winnt:notice] [pid 3160:tid 356] AH00430: Parent: Child process 2524 exited successfully.
+[Mon Jul 02 14:10:05.867103 2018] [ssl:warn] [pid 6484:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:10:05.898303 2018] [ssl:warn] [pid 6484:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:10:05.913903 2018] [mpm_winnt:notice] [pid 6484:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:10:05.913903 2018] [mpm_winnt:notice] [pid 6484:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:10:05.913903 2018] [core:notice] [pid 6484:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:10:05.913903 2018] [mpm_winnt:notice] [pid 6484:tid 356] AH00418: Parent: Created child process 6536
+[Mon Jul 02 14:10:06.084303 2018] [ssl:warn] [pid 6536:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:10:06.115503 2018] [ssl:warn] [pid 6536:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:10:06.131103 2018] [mpm_winnt:notice] [pid 6536:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:16:05.137903 2018] [mpm_winnt:notice] [pid 6484:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:16:07.154903 2018] [mpm_winnt:notice] [pid 6536:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:16:07.155903 2018] [mpm_winnt:notice] [pid 6484:tid 356] AH00430: Parent: Child process 6536 exited successfully.
+[Mon Jul 02 14:17:08.392703 2018] [ssl:warn] [pid 2856:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:17:08.455103 2018] [ssl:warn] [pid 2856:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:17:08.455103 2018] [mpm_winnt:notice] [pid 2856:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:17:08.455103 2018] [mpm_winnt:notice] [pid 2856:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:17:08.455103 2018] [core:notice] [pid 2856:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:17:08.455103 2018] [mpm_winnt:notice] [pid 2856:tid 356] AH00418: Parent: Created child process 1956
+[Mon Jul 02 14:17:08.657903 2018] [ssl:warn] [pid 1956:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:17:08.689103 2018] [ssl:warn] [pid 1956:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:17:08.689103 2018] [mpm_winnt:notice] [pid 1956:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:25:29.154732 2018] [mpm_winnt:notice] [pid 2856:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:25:31.162023 2018] [mpm_winnt:notice] [pid 1956:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:25:31.216831 2018] [mpm_winnt:notice] [pid 2856:tid 356] AH00430: Parent: Child process 1956 exited successfully.
+[Mon Jul 02 14:25:36.347161 2018] [ssl:warn] [pid 1964:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:25:36.409570 2018] [ssl:warn] [pid 1964:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:25:36.440775 2018] [mpm_winnt:notice] [pid 1964:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:25:36.440775 2018] [mpm_winnt:notice] [pid 1964:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:25:36.440775 2018] [core:notice] [pid 1964:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:25:36.440775 2018] [mpm_winnt:notice] [pid 1964:tid 356] AH00418: Parent: Created child process 6124
+[Mon Jul 02 14:25:36.643603 2018] [ssl:warn] [pid 6124:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:25:36.659205 2018] [ssl:warn] [pid 6124:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:25:36.674808 2018] [mpm_winnt:notice] [pid 6124:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:25:44.145362 2018] [authz_core:error] [pid 6124:tid 864] [client 127.0.0.1:51872] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:27:15.640838 2018] [authz_core:error] [pid 6124:tid 856] [client 127.0.0.1:51913] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:32:50.978023 2018] [mpm_winnt:notice] [pid 1964:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:32:52.983473 2018] [mpm_winnt:notice] [pid 6124:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:32:53.036676 2018] [mpm_winnt:notice] [pid 1964:tid 356] AH00430: Parent: Child process 6124 exited successfully.
+[Mon Jul 02 14:32:57.263395 2018] [ssl:warn] [pid 6612:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:32:57.325796 2018] [ssl:warn] [pid 6612:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:32:57.341396 2018] [mpm_winnt:notice] [pid 6612:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:32:57.341396 2018] [mpm_winnt:notice] [pid 6612:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:32:57.341396 2018] [core:notice] [pid 6612:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:32:57.341396 2018] [mpm_winnt:notice] [pid 6612:tid 356] AH00418: Parent: Created child process 5168
+[Mon Jul 02 14:32:57.531002 2018] [ssl:warn] [pid 5168:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:32:57.562202 2018] [ssl:warn] [pid 5168:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:32:57.562202 2018] [mpm_winnt:notice] [pid 5168:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:33:05.854195 2018] [authz_core:error] [pid 5168:tid 836] [client 127.0.0.1:52166] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:33:07.128470 2018] [authz_core:error] [pid 5168:tid 836] [client 127.0.0.1:52166] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:35:53.725653 2018] [mpm_winnt:notice] [pid 6612:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:35:55.725853 2018] [mpm_winnt:notice] [pid 5168:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:35:55.751855 2018] [mpm_winnt:notice] [pid 6612:tid 356] AH00430: Parent: Child process 5168 exited successfully.
+[Mon Jul 02 14:39:08.336112 2018] [ssl:warn] [pid 7008:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:39:08.390117 2018] [ssl:warn] [pid 7008:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:39:08.403119 2018] [mpm_winnt:notice] [pid 7008:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:39:08.403119 2018] [mpm_winnt:notice] [pid 7008:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:39:08.403119 2018] [core:notice] [pid 7008:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:39:08.405119 2018] [mpm_winnt:notice] [pid 7008:tid 356] AH00418: Parent: Created child process 6592
+[Mon Jul 02 14:39:08.590137 2018] [ssl:warn] [pid 6592:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:39:08.621140 2018] [ssl:warn] [pid 6592:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:39:08.628141 2018] [mpm_winnt:notice] [pid 6592:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:40:20.244579 2018] [mpm_winnt:notice] [pid 7008:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:40:22.245780 2018] [mpm_winnt:notice] [pid 6592:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:40:22.271782 2018] [mpm_winnt:notice] [pid 7008:tid 356] AH00430: Parent: Child process 6592 exited successfully.
+[Mon Jul 02 14:40:26.309186 2018] [ssl:warn] [pid 468:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:40:26.370192 2018] [ssl:warn] [pid 468:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:40:26.376193 2018] [mpm_winnt:notice] [pid 468:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:40:26.376193 2018] [mpm_winnt:notice] [pid 468:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:40:26.376193 2018] [core:notice] [pid 468:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:40:26.377193 2018] [mpm_winnt:notice] [pid 468:tid 356] AH00418: Parent: Created child process 4124
+[Mon Jul 02 14:40:26.571212 2018] [ssl:warn] [pid 4124:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:40:26.603215 2018] [ssl:warn] [pid 4124:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:40:26.609216 2018] [mpm_winnt:notice] [pid 4124:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:40:34.132946 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:34.920602 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:35.138623 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:35.458655 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:35.656675 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:35.829693 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:36.024712 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:36.226732 2018] [authz_core:error] [pid 4124:tid 868] [client 127.0.0.1:52528] AH01630: client denied by server configuration: E:/advanced/frontend/web/
+[Mon Jul 02 14:40:49.061183 2018] [mpm_winnt:notice] [pid 468:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:41:02.080938 2018] [mpm_winnt:notice] [pid 4124:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:41:02.113138 2018] [mpm_winnt:notice] [pid 468:tid 356] AH00430: Parent: Child process 4124 exited successfully.
+[Mon Jul 02 14:43:28.435511 2018] [ssl:warn] [pid 4932:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:43:28.513511 2018] [ssl:warn] [pid 4932:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:43:28.529112 2018] [mpm_winnt:notice] [pid 4932:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.2.7 configured -- resuming normal operations
+[Mon Jul 02 14:43:28.529112 2018] [mpm_winnt:notice] [pid 4932:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:43:28.529112 2018] [core:notice] [pid 4932:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 14:43:28.529112 2018] [mpm_winnt:notice] [pid 4932:tid 356] AH00418: Parent: Created child process 6016
+[Mon Jul 02 14:43:28.716313 2018] [ssl:warn] [pid 6016:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:43:28.747513 2018] [ssl:warn] [pid 6016:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:43:28.763113 2018] [mpm_winnt:notice] [pid 6016:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:44:11.291555 2018] [php7:error] [pid 6016:tid 900] [client 127.0.0.1:52626] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 14:46:18.613315 2018] [php7:error] [pid 6016:tid 840] [client 127.0.0.1:52739] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:08:46.905315 2018] [php7:error] [pid 6016:tid 900] [client 127.0.0.1:53568] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:08:52.166115 2018] [php7:error] [pid 6016:tid 840] [client 127.0.0.1:53572] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:09:30.315715 2018] [php7:error] [pid 6016:tid 816] [client 127.0.0.1:53602] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:13:23.090315 2018] [php7:error] [pid 6016:tid 840] [client 127.0.0.1:53728] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:13:35.459715 2018] [mpm_winnt:notice] [pid 4932:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 15:13:37.472515 2018] [mpm_winnt:notice] [pid 6016:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 15:13:37.488115 2018] [mpm_winnt:notice] [pid 4932:tid 356] AH00430: Parent: Child process 6016 exited successfully.
+[Mon Jul 02 15:13:40.019515 2018] [ssl:warn] [pid 6724:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:13:40.073315 2018] [ssl:warn] [pid 6724:tid 356] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: D:\\php7.1.19\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xb3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd), D:\\php7.1.19\\ext\\php_php_openssl.dll.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+PHP Deprecated:  Directive 'track_errors' is deprecated in Unknown on line 0
+[Mon Jul 02 15:13:40.088915 2018] [mpm_winnt:notice] [pid 6724:tid 356] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 15:13:40.088915 2018] [mpm_winnt:notice] [pid 6724:tid 356] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 15:13:40.088915 2018] [core:notice] [pid 6724:tid 356] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 15:13:40.088915 2018] [mpm_winnt:notice] [pid 6724:tid 356] AH00418: Parent: Created child process 5452
+[Mon Jul 02 15:13:40.271715 2018] [ssl:warn] [pid 5452:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:13:40.302915 2018] [ssl:warn] [pid 5452:tid 260] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: D:\\php7.1.19\\ext\\php_openssl.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xb3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd), D:\\php7.1.19\\ext\\php_php_openssl.dll.dll (\xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3)) in Unknown on line 0
+PHP Deprecated:  Directive 'track_errors' is deprecated in Unknown on line 0
+[Mon Jul 02 15:13:40.302915 2018] [mpm_winnt:notice] [pid 5452:tid 260] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 15:13:45.434115 2018] [php7:error] [pid 5452:tid 904] [client 127.0.0.1:53746] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:13:46.521715 2018] [php7:error] [pid 5452:tid 904] [client 127.0.0.1:53746] PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in E:\\advanced\\vendor\\yiisoft\\yii2\\base\\Object.php on line 77
+[Mon Jul 02 15:17:37.030315 2018] [mpm_winnt:notice] [pid 6724:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 15:17:39.062115 2018] [mpm_winnt:notice] [pid 5452:tid 260] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 15:17:39.078715 2018] [mpm_winnt:notice] [pid 6724:tid 356] AH00430: Parent: Child process 5452 exited successfully.
+[Mon Jul 02 15:17:46.747315 2018] [ssl:warn] [pid 6084:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:17:46.825315 2018] [ssl:warn] [pid 6084:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 15:17:47.229315 2018] [mpm_winnt:notice] [pid 6084:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 15:17:47.229315 2018] [mpm_winnt:notice] [pid 6084:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 15:17:47.229315 2018] [core:notice] [pid 6084:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 15:17:47.229315 2018] [mpm_winnt:notice] [pid 6084:tid 340] AH00418: Parent: Created child process 6396
+[Mon Jul 02 15:17:47.400915 2018] [ssl:warn] [pid 6396:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:17:47.432115 2018] [ssl:warn] [pid 6396:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 15:17:47.447715 2018] [mpm_winnt:notice] [pid 6396:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 17:06:30.276972 2018] [mpm_winnt:notice] [pid 6084:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 17:06:32.319572 2018] [mpm_winnt:notice] [pid 6396:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 17:06:32.350772 2018] [mpm_winnt:notice] [pid 6084:tid 340] AH00430: Parent: Child process 6396 exited successfully.
+[Mon Jul 02 17:08:04.304972 2018] [ssl:warn] [pid 4156:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 17:08:04.336172 2018] [ssl:warn] [pid 4156:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_pdo_firebird.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_pdo_oci.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
+[Mon Jul 02 17:08:04.570172 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 17:08:04.570172 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 17:08:04.570172 2018] [core:notice] [pid 4156:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 17:08:04.570172 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00418: Parent: Created child process 7692
+[Mon Jul 02 17:08:04.757372 2018] [ssl:warn] [pid 7692:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 17:08:04.788572 2018] [ssl:warn] [pid 7692:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_pdo_firebird.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_pdo_oci.dll' - \xef\xbf\xbd\xd2\xb2\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd6\xb8\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xa3\xef\xbf\xbd\xe9\xa1\xa3\r\n in Unknown on line 0
+[Mon Jul 02 17:08:04.788572 2018] [mpm_winnt:notice] [pid 7692:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 18:31:58.864622 2018] [php7:error] [pid 7692:tid 868] [client ::1:59704] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:32:19.222439 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Jul 02 18:32:19.290845 2018] [ssl:warn] [pid 4156:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 18:32:19.326048 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 18:32:19.326048 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 18:32:19.326048 2018] [core:notice] [pid 4156:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 18:32:19.326048 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00418: Parent: Created child process 7728
+[Mon Jul 02 18:32:19.524664 2018] [ssl:warn] [pid 7728:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 18:32:19.555866 2018] [ssl:warn] [pid 7728:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 18:32:20.231122 2018] [mpm_winnt:notice] [pid 7728:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 18:32:21.236802 2018] [mpm_winnt:notice] [pid 7692:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 18:32:25.125724 2018] [php7:error] [pid 7728:tid 884] [client ::1:59749] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:32:26.855875 2018] [php7:error] [pid 7728:tid 884] [client ::1:59749] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:32:27.561737 2018] [php7:error] [pid 7728:tid 884] [client ::1:59749] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:32:31.641918 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 18:32:33.639798 2018] [mpm_winnt:notice] [pid 7728:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 18:32:33.686599 2018] [mpm_winnt:notice] [pid 4156:tid 340] AH00430: Parent: Child process 7728 exited successfully.
+[Mon Jul 02 18:32:41.689286 2018] [ssl:warn] [pid 7116:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 18:32:41.720487 2018] [ssl:warn] [pid 7116:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 18:32:41.736088 2018] [mpm_winnt:notice] [pid 7116:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 18:32:41.736088 2018] [mpm_winnt:notice] [pid 7116:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 18:32:41.736088 2018] [core:notice] [pid 7116:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 18:32:41.736088 2018] [mpm_winnt:notice] [pid 7116:tid 340] AH00418: Parent: Created child process 5796
+[Mon Jul 02 18:32:41.923294 2018] [ssl:warn] [pid 5796:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 18:32:41.954495 2018] [ssl:warn] [pid 5796:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 18:32:41.970095 2018] [mpm_winnt:notice] [pid 5796:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 18:32:47.400978 2018] [php7:error] [pid 5796:tid 884] [client ::1:59786] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:32:47.976233 2018] [php7:error] [pid 5796:tid 884] [client ::1:59786] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:34:26.180265 2018] [mpm_winnt:notice] [pid 7116:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 18:34:28.202741 2018] [mpm_winnt:notice] [pid 5796:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 18:34:28.218342 2018] [mpm_winnt:notice] [pid 7116:tid 340] AH00430: Parent: Child process 5796 exited successfully.
+[Mon Jul 02 18:34:32.007076 2018] [ssl:warn] [pid 1228:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 18:34:32.053877 2018] [ssl:warn] [pid 1228:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 18:34:32.069478 2018] [mpm_winnt:notice] [pid 1228:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 18:34:32.069478 2018] [mpm_winnt:notice] [pid 1228:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 18:34:32.069478 2018] [core:notice] [pid 1228:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 18:34:32.085078 2018] [mpm_winnt:notice] [pid 1228:tid 340] AH00418: Parent: Created child process 5608
+[Mon Jul 02 18:34:32.272284 2018] [ssl:warn] [pid 5608:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 18:34:32.288885 2018] [ssl:warn] [pid 5608:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 18:34:32.291885 2018] [mpm_winnt:notice] [pid 5608:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 18:34:44.523531 2018] [php7:error] [pid 5608:tid 880] [client ::1:59976] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:34:45.116783 2018] [php7:error] [pid 5608:tid 880] [client ::1:59976] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:34:45.322803 2018] [php7:error] [pid 5608:tid 880] [client ::1:59976] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:34:45.493820 2018] [php7:error] [pid 5608:tid 880] [client ::1:59976] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in D:\\Apache24\\Apache24\\htdocs\\index.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 2
+[Mon Jul 02 18:39:12.487723 2018] [php7:warn] [pid 5608:tid 876] [client ::1:60526] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:12.487723 2018] [php7:warn] [pid 5608:tid 876] [client ::1:60526] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:12.487723 2018] [php7:warn] [pid 5608:tid 876] [client ::1:60526] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:41.518708 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:41.518708 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:41.518708 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:42.166365 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.166365 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.166365 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:42.318380 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.318380 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.318380 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:42.482396 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.482396 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.482396 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:42.634412 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.635412 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.635412 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:42.766425 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.766425 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.766425 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:42.951443 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.951443 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:42.952443 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:43.077456 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:43.077456 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:43.078456 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:43.227471 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:43.227471 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:43.227471 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:39:43.379486 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:43.379486 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:39:43.379486 2018] [php7:warn] [pid 5608:tid 880] [client ::1:60575] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:41:02.761697 2018] [php7:warn] [pid 5608:tid 876] [client ::1:60721] PHP Warning:  mysqli_connect(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:41:02.761697 2018] [php7:warn] [pid 5608:tid 876] [client ::1:60721] PHP Warning:  mysqli_connect(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\index.php on line 3
+[Mon Jul 02 18:41:02.761697 2018] [php7:error] [pid 5608:tid 876] [client ::1:60721] PHP Fatal error:  Uncaught Error: Call to a member function close() on boolean in D:\\Apache24\\Apache24\\htdocs\\index.php:9\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\index.php on line 9
+[Mon Jul 02 18:46:47.901065 2018] [php7:warn] [pid 5608:tid 876] [client ::1:61608] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Mon Jul 02 18:46:47.901065 2018] [php7:warn] [pid 5608:tid 876] [client ::1:61608] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Mon Jul 02 19:05:21.478881 2018] [mpm_winnt:notice] [pid 1228:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 19:05:23.480081 2018] [mpm_winnt:notice] [pid 5608:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 19:05:23.508084 2018] [mpm_winnt:notice] [pid 1228:tid 340] AH00430: Parent: Child process 5608 exited successfully.
+[Mon Jul 02 19:05:27.835517 2018] [ssl:warn] [pid 7948:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 19:05:27.925526 2018] [ssl:warn] [pid 7948:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_mongodb.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 19:05:27.984532 2018] [mpm_winnt:notice] [pid 7948:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 19:05:27.984532 2018] [mpm_winnt:notice] [pid 7948:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 19:05:27.984532 2018] [core:notice] [pid 7948:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 19:05:27.985532 2018] [mpm_winnt:notice] [pid 7948:tid 340] AH00418: Parent: Created child process 7344
+[Mon Jul 02 19:05:28.167550 2018] [ssl:warn] [pid 7344:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 19:05:28.199553 2018] [ssl:warn] [pid 7344:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_mongodb.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 19:05:28.207554 2018] [mpm_winnt:notice] [pid 7344:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 19:09:05.328740 2018] [mpm_winnt:notice] [pid 7948:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 19:09:07.344759 2018] [mpm_winnt:notice] [pid 7344:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 19:09:07.375959 2018] [mpm_winnt:notice] [pid 7948:tid 340] AH00430: Parent: Child process 7344 exited successfully.
+[Mon Jul 02 19:09:14.261246 2018] [ssl:warn] [pid 5188:tid 344] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 19:09:14.308047 2018] [ssl:warn] [pid 5188:tid 344] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 19:09:14.323647 2018] [mpm_winnt:notice] [pid 5188:tid 344] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 19:09:14.323647 2018] [mpm_winnt:notice] [pid 5188:tid 344] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 19:09:14.323647 2018] [core:notice] [pid 5188:tid 344] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 19:09:14.323647 2018] [mpm_winnt:notice] [pid 5188:tid 344] AH00418: Parent: Created child process 7608
+[Mon Jul 02 19:09:14.495051 2018] [ssl:warn] [pid 7608:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 19:09:14.528251 2018] [ssl:warn] [pid 7608:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 19:09:14.543851 2018] [mpm_winnt:notice] [pid 7608:tid 240] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 19:11:44.271078 2018] [mpm_winnt:notice] [pid 5188:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 19:11:46.279899 2018] [mpm_winnt:notice] [pid 7608:tid 240] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 19:11:46.311100 2018] [mpm_winnt:notice] [pid 5188:tid 344] AH00430: Parent: Child process 7608 exited successfully.
+[Mon Jul 02 19:11:49.377538 2018] [ssl:warn] [pid 7908:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 19:11:49.400138 2018] [ssl:warn] [pid 7908:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_mongodb.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 19:11:49.429141 2018] [mpm_winnt:notice] [pid 7908:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Mon Jul 02 19:11:49.429141 2018] [mpm_winnt:notice] [pid 7908:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 19:11:49.429141 2018] [core:notice] [pid 7908:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Mon Jul 02 19:11:49.430141 2018] [mpm_winnt:notice] [pid 7908:tid 340] AH00418: Parent: Created child process 6684
+[Mon Jul 02 19:11:49.635344 2018] [ssl:warn] [pid 6684:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 19:11:49.666545 2018] [ssl:warn] [pid 6684:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_openssl.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\\php7.1.19\\ext\\php_mongodb.dll' - \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xcf\xb5\xcd\xb3\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd %1\xef\xbf\xbd\xef\xbf\xbd\r\n in Unknown on line 0
+[Mon Jul 02 19:11:49.697745 2018] [mpm_winnt:notice] [pid 6684:tid 240] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 03 08:54:36.627772 2018] [mpm_winnt:notice] [pid 7908:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 03 08:54:38.655401 2018] [mpm_winnt:notice] [pid 6684:tid 240] AH00364: Child: All worker threads have exited.
+[Tue Jul 03 08:54:39.029802 2018] [mpm_winnt:notice] [pid 7908:tid 340] AH00430: Parent: Child process 6684 exited successfully.
+[Tue Jul 03 08:55:25.817237 2018] [ssl:warn] [pid 1600:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 08:55:25.927238 2018] [ssl:warn] [pid 1600:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 08:55:27.257239 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Tue Jul 03 08:55:27.257239 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Tue Jul 03 08:55:27.257239 2018] [core:notice] [pid 1600:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Tue Jul 03 08:55:27.257239 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00418: Parent: Created child process 1748
+[Tue Jul 03 08:55:27.477240 2018] [ssl:warn] [pid 1748:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 08:55:27.537240 2018] [ssl:warn] [pid 1748:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 08:55:27.867240 2018] [mpm_winnt:notice] [pid 1748:tid 240] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 03 15:22:19.190628 2018] [php7:error] [pid 1748:tid 900] [client ::1:51824] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in D:\\Apache24\\Apache24\\htdocs\\db.php:2\nStack trace:\n#0 {main}\n  thrown in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 15:26:36.835628 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Jul 03 15:26:37.781628 2018] [ssl:warn] [pid 1600:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 15:26:38.569628 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Tue Jul 03 15:26:38.569628 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Tue Jul 03 15:26:38.569628 2018] [core:notice] [pid 1600:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Tue Jul 03 15:26:38.570628 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00418: Parent: Created child process 6072
+[Tue Jul 03 15:26:38.843628 2018] [mpm_winnt:notice] [pid 1748:tid 240] AH00364: Child: All worker threads have exited.
+[Tue Jul 03 15:26:39.677628 2018] [ssl:warn] [pid 6072:tid 236] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 15:26:39.833628 2018] [ssl:warn] [pid 6072:tid 236] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 03 15:26:40.243628 2018] [mpm_winnt:notice] [pid 6072:tid 236] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 03 15:35:40.594628 2018] [php7:warn] [pid 6072:tid 892] [client ::1:54748] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 15:35:40.594628 2018] [php7:warn] [pid 6072:tid 892] [client ::1:54748] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:52.567229 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:52.567229 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:53.691711 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:53.691711 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:54.598802 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:54.598802 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:54.717814 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:54.717814 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:55.277870 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:50:55.277870 2018] [php7:warn] [pid 6072:tid 904] [client ::1:53175] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:51:42.754179 2018] [php7:warn] [pid 6072:tid 892] [client ::1:53265] PHP Warning:  mysqli::__construct(): (HY000/2002): \xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xc4\xbf\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xdc\xbe\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xde\xb7\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd3\xa1\xef\xbf\xbd\r\n in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:52:18.557891 2018] [php7:warn] [pid 6072:tid 892] [client ::1:53343] PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 16:52:18.557891 2018] [php7:warn] [pid 6072:tid 892] [client ::1:53343] PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in D:\\Apache24\\Apache24\\htdocs\\db.php on line 2
+[Tue Jul 03 17:21:58.187654 2018] [php7:error] [pid 6072:tid 896] [client ::1:59097] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in D:\\Apache24\\Apache24\\htdocs\\db.php on line 3
+[Tue Jul 03 17:22:41.338395 2018] [php7:error] [pid 6072:tid 892] [client ::1:59240] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in D:\\Apache24\\Apache24\\htdocs\\db.php on line 3
+[Tue Jul 03 17:22:42.833174 2018] [php7:error] [pid 6072:tid 892] [client ::1:59240] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in D:\\Apache24\\Apache24\\htdocs\\db.php on line 3
+[Tue Jul 03 17:22:43.363174 2018] [php7:error] [pid 6072:tid 892] [client ::1:59240] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in D:\\Apache24\\Apache24\\htdocs\\db.php on line 3
+[Tue Jul 03 17:25:07.744133 2018] [php7:warn] [pid 6072:tid 896] [client ::1:59725] PHP Warning:  printf(): Too few arguments in D:\\Apache24\\Apache24\\htdocs\\db.php on line 3
+[Wed Jul 04 09:51:11.006996 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Jul 04 09:51:11.577410 2018] [ssl:warn] [pid 1600:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 04 09:51:12.161023 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Wed Jul 04 09:51:12.161023 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Wed Jul 04 09:51:12.161023 2018] [core:notice] [pid 1600:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Wed Jul 04 09:51:12.176623 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00418: Parent: Created child process 8564
+[Wed Jul 04 09:51:12.957638 2018] [ssl:warn] [pid 8564:tid 236] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 04 09:51:13.022040 2018] [ssl:warn] [pid 8564:tid 236] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 04 09:51:13.101041 2018] [mpm_winnt:notice] [pid 6072:tid 236] AH00364: Child: All worker threads have exited.
+[Wed Jul 04 09:51:13.399447 2018] [mpm_winnt:notice] [pid 8564:tid 236] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 04 16:59:39.042258 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 04 16:59:41.070258 2018] [mpm_winnt:notice] [pid 8564:tid 236] AH00364: Child: All worker threads have exited.
+[Wed Jul 04 16:59:41.085858 2018] [mpm_winnt:notice] [pid 1600:tid 340] AH00430: Parent: Child process 8564 exited successfully.
+[Wed Jul 04 17:00:22.527638 2018] [ssl:warn] [pid 1584:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Wed Jul 04 17:00:22.637638 2018] [ssl:warn] [pid 1584:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 04 17:00:23.969641 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Wed Jul 04 17:00:23.979641 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Wed Jul 04 17:00:23.979641 2018] [core:notice] [pid 1584:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Wed Jul 04 17:00:23.979641 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00418: Parent: Created child process 1736
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Wed Jul 04 17:00:24.189642 2018] [ssl:warn] [pid 1736:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Wed Jul 04 17:00:24.249642 2018] [ssl:warn] [pid 1736:tid 240] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 04 17:00:24.599642 2018] [mpm_winnt:notice] [pid 1736:tid 240] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 05 11:24:42.822614 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Thu Jul 05 11:24:43.504682 2018] [ssl:warn] [pid 1584:tid 340] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 05 11:24:44.318763 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Thu Jul 05 11:24:44.318763 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00456: Server built: Mar 17 2018 21:05:15
+[Thu Jul 05 11:24:44.318763 2018] [core:notice] [pid 1584:tid 340] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Thu Jul 05 11:24:44.318763 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00418: Parent: Created child process 10116
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+00364: Child: All worker threads have exited.
+[Thu Jul 05 11:24:45.133845 2018] [ssl:warn] [pid 10116:tid 244] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Thu Jul 05 11:24:45.432875 2018] [ssl:warn] [pid 10116:tid 244] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 05 11:24:45.836915 2018] [mpm_winnt:notice] [pid 10116:tid 244] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 05 17:56:16.607994 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 05 17:56:18.636007 2018] [mpm_winnt:notice] [pid 10116:tid 244] AH00364: Child: All worker threads have exited.
+[Thu Jul 05 17:56:18.714008 2018] [mpm_winnt:notice] [pid 1584:tid 340] AH00430: Parent: Child process 10116 exited successfully.
+[Thu Jul 05 17:57:09.325242 2018] [ssl:warn] [pid 1600:tid 344] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Thu Jul 05 17:57:09.445242 2018] [ssl:warn] [pid 1600:tid 344] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 05 17:57:10.507245 2018] [mpm_winnt:notice] [pid 1600:tid 344] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h PHP/7.1.19 configured -- resuming normal operations
+[Thu Jul 05 17:57:10.507245 2018] [mpm_winnt:notice] [pid 1600:tid 344] AH00456: Server built: Mar 17 2018 21:05:15
+[Thu Jul 05 17:57:10.507245 2018] [core:notice] [pid 1600:tid 344] AH00094: Command line: 'D:\\Apache24\\Apache24\\bin\\httpd.exe -d D:/Apache24/Apache24'
+[Thu Jul 05 17:57:10.507245 2018] [mpm_winnt:notice] [pid 1600:tid 344] AH00418: Parent: Created child process 1976
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Thu Jul 05 17:57:10.707245 2018] [ssl:warn] [pid 1976:tid 244] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [E:/advanced/frontend/web] does not exist
+[Thu Jul 05 17:57:10.767245 2018] [ssl:warn] [pid 1976:tid 244] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 05 17:57:11.117246 2018] [mpm_winnt:notice] [pid 1976:tid 244] AH00354: Child: Starting 64 worker threads.
